@@ -1,0 +1,23 @@
+{
+  "name": "mall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemonylm/uni-app-program.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemonylm/uni-app-program/issues"
+  },
+  "homepage": "https://github.com/lemonylm/uni-app-program#readme",
+  "dependencies": {
+    "vuex": "^3.6.2"
+  }
+}

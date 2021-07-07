@@ -1,0 +1,1 @@
+<view><view class="block"></view><view class="QR"><image src="../../../static/img/qr.jpg"></image></view><view class="title">{{meme+''}}</view><view data-event-opts="{{[['tap',[['printscreen',['$event']]]]]}}" hidden="{{!(showBtn)}}" class="btn" bindtap="__e">{{''+tis+''}}</view></view>

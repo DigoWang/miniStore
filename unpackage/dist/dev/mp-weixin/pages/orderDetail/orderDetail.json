@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "enablePullDownRefresh": false,
+  "backgroundColorTop": "#f06c7a",
+  "backgroundColorBottom": "#ffffff",
+  "navigationBarBackgroundColor": "#fb3b12",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-notice-bar": "/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}
